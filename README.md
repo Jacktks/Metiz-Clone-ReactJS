@@ -1,1 +1,1 @@
-# Metiz-Clone-ReactJS
+# P2_MInh_TRi
